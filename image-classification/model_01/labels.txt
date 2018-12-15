@@ -1,0 +1,8 @@
+apple
+dog
+tree
+cat
+building
+car
+pizza
+person
